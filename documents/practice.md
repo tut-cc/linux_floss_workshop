@@ -34,7 +34,7 @@ FLOSS 勉強会の開催情報のほか，
 以下のコマンドにより pull をしておきましょう．
 
 ```bash
-git pull origin practice
+git pull origin master
 ```
 
 ### 演習中
